@@ -1,0 +1,19 @@
+{
+  "name": "sked-timetable-converter",
+  "version": "1.0.0",
+  "description": "Converts sked campus timetable lists into iCal format",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "convert": "node convert.js",
+    "build": "npm run convert"
+  },
+  "keywords": ["sked", "timetable", "ical"],
+  "author": "silas229",
+  "license": "ISC",
+  "dependencies": {
+    "ical-generator": "^3.5.1",
+    "jsdom": "^20.0.0",
+    "moment": "^2.29.4"
+  }
+}
