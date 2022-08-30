@@ -6,7 +6,7 @@
 
 | Supported                                                    | Unsupported                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![List](/Users/silas/Projekte/sked-timetable-converter/img/timetable-list.png) | ![Timetable](/Users/silas/Projekte/sked-timetable-converter/img/timetable.png) |
+| ![List](https://github.com/silas229/sked-timetable-converter/raw/main/img/timetable-list.png) | ![Timetable](https://github.com/silas229/sked-timetable-converter/raw/main/img/timetable.png) |
 
 Tested with:
 
