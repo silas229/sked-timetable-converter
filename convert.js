@@ -2,7 +2,7 @@
  * CONFIGURATION
  */
 const mode = "url" // either 'url' or 'file'
-const timetableUrl = "https://stundenplan.ostfalia.de/i/Semester/Semester-Liste/I-B.Sc.%201.%20Sem%20Informatik.html"
+const timetableUrl = "https://timetable.your-college.com/"
 const inputPath = "timetable.html"
 const outputPath = "calendar.ics"
 
